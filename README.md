@@ -3,13 +3,9 @@
 
 If you want to find something enjoyable I think you can visit this web
 
-*Item 1
+*Item 1  [ACG](http://www.hacg.cool/wp/category/all/anime)
 
-[ACG](http://www.hacg.cool/wp/category/all/anime)
-
-*Item 2
-
-[HACG](https://acg18.us)
+*Item 2  [HACG](https://acg18.us)
 
 ![GitHub Logo](/IN/T.jpg)
 
