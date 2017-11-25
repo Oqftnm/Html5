@@ -6,4 +6,4 @@
 * Item 2
 [hacg](https://acg18.us)
 ![GitHub Logo](/IN/T.jpg)
-Format: ![Alt Text](url)
+
