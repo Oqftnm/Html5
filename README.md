@@ -15,11 +15,7 @@
 
 
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+```markdown
+这是我的博客
 ```
 这是我的博客
