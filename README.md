@@ -5,6 +5,21 @@
 [ACG](http://www.hacg.cool/wp/category/all/anime)
 * Item 2
 [HACG](https://acg18.us)
-这是我的博客
+
 ![GitHub Logo](/IN/T.jpg)
 
+
+
+
+
+
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+这是我的博客
